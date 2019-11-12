@@ -176,5 +176,6 @@
      "Experimenting the Automation"
      "Committed License.txt"
      "Commited license.txt File again"	
+	"edited last line"
 END OF TERMS AND CONDITIONS
 
